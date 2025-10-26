@@ -1,2 +1,11 @@
-# Job-Application-Tracker
-Ett simpelt program för att skapa och granska jobbansökningar
+--Vad hag jar gjort-- Jag har skapat ett program där användare kan skapa, redigera och bevaka jobbansökningar som de gör till olika företag. Syftet med programmet är att användaren ska kunna söka flertalet jobb, få en lista där de kan filtrera efter datum ,företag, lön osv... för att få en översikt över sina jobbansökningar. Man kan även följa status för dessa ansökningar.
+
+--Hur programmet används-- När användaren kör programmet får den upp en meny med olika alternativ (listade ovan) Användaren navigerar menyn med hjälp av siffror (1-5) som representerar de olika alternativen. När användaren till exempel valt att skapa en ny ansökan, kan den fylla i information som promptas av programmet (t.ex företag, lön, position osv...). När man sedan har gjort flertalet ansökningar kan man få en lista på vilka jobb man sökt, och filtrera med hjälp av LINQ-operationer som är inbyggda i programmet. Där kan man t.ex sortera efter datum, lön och mera.
+
+--Reflektioner-- Olle Hasselberg, 2025-10-26 Jag tycker detta projekt har varit väldigt givande, jag har lärt mig nyttan av nya funktioner (såsom enum och LINQ), tycker att jag har fått hyfsat bra grepp på vad det är och hur det används. Trots att mycket av innehållet i projektet är nytt för mig så har det varit ett intressant, men utmanande arbete.
+
+--Utmaningar-- Den största utmaningen för mig var hur jag skulle visa status för varje ansökt jobb (Applied, interview, offer, rejected). Till en början satt jag och skrev ut dessa rader för varje gång de skulle användas, men efter lite research och bollande med chatGPT fick jag förklarat för mig vad enumeration är, och har förstått att det är mycket användbart när man vill använda samma parametrar på flera olika ställen. Detta gjorde att min kod ser mer "clean" ut, och gjorde det mycket enklare att få till en bättre syntax. Det och syftet med LINQ har nog varit mina största lärdomar i detta projekt.
+
+En annan utmaning för mig var GitHub och versionshantering. Detta är någonting som jag kommer kika mer på och fokusera på att lära mig framöver.
+
+--Summering-- Jag tycker det har gått bra. Det har varit mycket problemlösningar och mycket research för att få klarhet i hur jag ska exekvera min kod, men jag tycker ändå att det har gått bra.
