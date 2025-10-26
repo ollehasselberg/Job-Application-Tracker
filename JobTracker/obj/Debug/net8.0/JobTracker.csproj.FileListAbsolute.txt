@@ -1,0 +1,15 @@
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\bin\Debug\net8.0\JobTracker.exe
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\bin\Debug\net8.0\JobTracker.deps.json
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\bin\Debug\net8.0\JobTracker.runtimeconfig.json
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\bin\Debug\net8.0\JobTracker.dll
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\bin\Debug\net8.0\JobTracker.pdb
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.AssemblyInfoInputs.cache
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.AssemblyInfo.cs
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.csproj.CoreCompileInputs.cache
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.sourcelink.json
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.dll
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\refint\JobTracker.dll
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.pdb
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\JobTracker.genruntimeconfig.cache
+C:\NBI\Olle\Projekt\Objektorienterad Programmering\JobTracker\JobTracker\obj\Debug\net8.0\ref\JobTracker.dll
